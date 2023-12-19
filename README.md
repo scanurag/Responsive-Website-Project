@@ -7,7 +7,8 @@ Technology Used:-HTML5,CSS3,JavaScript
 ![Screenshot 2023-12-20 005421](https://github.com/scanurag/Responsive-Website-Project/assets/90509642/27514e12-7732-4c69-ae0c-2899e5c273b7)
 ![Screenshot 2023-12-20 005507](https://github.com/scanurag/Responsive-Website-Project/assets/90509642/92582911-a1b4-4e69-bfeb-85a51df67a35)
 ![Screenshot 2023-12-20 005528](https://github.com/scanurag/Responsive-Website-Project/assets/90509642/877881e8-cf41-4081-8c16-45d9c5ab5b2f)
-![Uploading Screenshot 2023-12-20 005621.png…]()
+![Screenshot 2023-12-20 005621](https://github.com/scanurag/Responsive-Website-Project/assets/90509642/45ffaf9f-ad8f-4fc6-b51d-f55e8dfbb9e6)
+
 
 
 
